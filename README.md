@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I am currently working as a Software Development Engineer at [**Ignite Solutions**](https://www.ignitesol.com/). I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+I am currently working as a Software Engineer at [**Elucidata**](https://www.elucidata.io/). I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
 In the past, I have worked with [**InterviewBit**](https://www.interviewbit.com/) and [**upGrad**](https://www.upgrad.com/) as a Data Science Intern. I have also worked as a Data Analyst Intern at [**MyGov India**](https://www.mygov.in/), which comes under the _**Ministry of Electronics & Information Technology, Government of India**_.
 
@@ -7,7 +7,7 @@ In the past, I have worked with [**InterviewBit**](https://www.interviewbit.com/
 
 **Domain:** Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
 
-**Languages:**  Python, SQL, HTML, CSS, JavaScript, Ruby.
+**Languages:**  R, Python, SQL, HTML, CSS, JavaScript, Ruby.
 
 **Framework:** Flask, Ruby on Rails, AngularJS, React, Bootstrap.
 
